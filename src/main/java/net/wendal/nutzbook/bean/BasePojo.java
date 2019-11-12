@@ -11,6 +11,7 @@ import java.util.Date;
  * @date 2019/11/12 09:17:23
  * @description
  */
+//nutzbook进行了2次提交
 public abstract  class BasePojo {
 
     @Column("ct")
