@@ -12,10 +12,10 @@ import java.util.Date;
  * @description
  */
 
-//nutz-book进行了4次提交
+//nutz-book进行了5次提交
 
 //nutzbook进行了3次提交
-//测试
+
 public abstract  class BasePojo {
 
     @Column("ct")
