@@ -15,7 +15,7 @@ import java.util.Date;
 //nutz-book进行了4次提交
 
 //nutzbook进行了3次提交
-
+//测试
 public abstract  class BasePojo {
 
     @Column("ct")

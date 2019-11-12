@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nutz-book" />
+        <module name="nutzbook" />
       </profile>
     </annotationProcessing>
   </component>
@@ -14,6 +15,7 @@
     <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="nutz-book" options="" />
+      <module name="nutzbook" options="" />
     </option>
   </component>
 </project>
